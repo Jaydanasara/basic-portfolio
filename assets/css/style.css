@@ -1,0 +1,161 @@
+
+body{
+    background: darkslateblue;
+}
+
+
+.clickme{
+    background: white;
+    width: 100%;
+    height: 100px;        
+}
+#name{
+    background-color: black;
+    width: 15%;
+     color:lightgrey;
+     float:left;
+     font-size: 30px;
+     margin-left: 5%;
+     padding-bottom: .5%;
+     padding-top: .5%;
+}
+
+#about{
+    
+    width:3.5%;
+    float:right;
+    margin-top: 1.5%;
+    border-right: solid grey;
+   
+}
+
+#portfolio{
+    
+    width:6%;
+    float:right;
+    border-right: solid grey;
+    margin-top: 1.5%;
+    padding-left: 4px;
+}   
+.clickme a:hover{
+    color: red;
+}
+#contact{
+    
+    width:6%;
+    float: right;
+    margin-top: 1.5%;
+    padding-left: 4px;
+}
+
+#big-box{
+    clear: both;
+    margin-left: 0%;
+    background: darkslateblue;
+    width: 1575px;
+    height:740px;
+    position:relative;
+}
+
+#lil-box{
+    top: -700px;
+    left: 38px;
+    background:white;
+    width:1100px;
+    height:400px;
+    position:relative;
+    
+}
+#contact-box{
+    top: -700px;
+    left: 38px;
+    background:white;
+    width:1100px;
+    height:400px;
+    position:relative;
+    
+}
+
+h1{
+    border-bottom: solid grey;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+
+#part1{
+    width:800px;
+    float:right;
+}
+img{
+    
+    clear: both;
+    height:172px;
+    width:250px;
+    position: relative;
+    left: 10px;
+}
+
+input{
+    width:700px;
+    
+}
+
+textarea{
+    width:800px;
+    height 400px;
+}
+
+.enter{
+    width:300px;
+    height:50px;
+    
+}
+
+.p1{
+float:left;
+position:relative;
+left:-10px;
+}
+.p2{
+    float:right;
+    position: relative;
+    left:-10px;
+}
+.p3{
+clear:both;
+float:left;
+position:relative;
+left: -10px;
+bottom:-53px;
+}
+
+.p4{ 
+float:right;
+position: relative;
+left:-10px;
+bottom:-55px;
+}
+
+.p5{
+clear:both;
+position: relative;
+top:-270px;
+right:-415px;
+
+}
+
+
+footer{
+    clear: both;
+    background-color:grey;
+    color:white;
+    height: 40px;
+    padding-top: 10px;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right:0%;
+    border-top: solid 10px black;
+    text-align: center;
+}
