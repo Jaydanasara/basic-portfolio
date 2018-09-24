@@ -64,6 +64,7 @@ body{
     width:1100px;
     height:400px;
     position:relative;
+    column-count: 3
     
 }
 #contact-box{
@@ -113,38 +114,7 @@ textarea{
     
 }
 
-.p1{
-float:left;
-position:relative;
-left:-10px;
-}
-.p2{
-    float:right;
-    position: relative;
-    left:-10px;
-}
-.p3{
-clear:both;
-float:left;
-position:relative;
-left: -10px;
-bottom:-53px;
-}
 
-.p4{ 
-float:right;
-position: relative;
-left:-10px;
-bottom:-55px;
-}
-
-.p5{
-clear:both;
-position: relative;
-top:-270px;
-right:-415px;
-
-}
 
 
 footer{
